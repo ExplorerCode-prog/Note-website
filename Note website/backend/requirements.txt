@@ -1,0 +1,10 @@
+asgiref                             #is a Python library that provides ASGI (Asynchronous Server Gateway Interface) support for Python web applications
+Django
+django-cors-headers         #this package is used for handling CORS or simply adding it on server side
+djangorestframework         #this allow us to build APIs in Django. simply provides wverything you need to easily create and manage Restful APIs
+djangorestframework-simplejwt       #this is for making JWT authentication
+PyJWT                           #this is python lib used for encoding, decodeing and verifying JSON web Tokens
+pytz                            #It allows you to easily handle time zone conversions and work with dates and times in different time zones, ensuring that your program accounts for the complexities of time zone differences and daylight saving time (DST).
+sqlparse          #this is used to parse SQL queries
+psycopg2-binary                                      #is one of the most popular libraries used in Python to connect to and manage PostgreSQL databases.
+python-dotenv
